@@ -1,0 +1,8 @@
+servlets\CrudRepository.class
+models\User$UserBuilder.class
+servlets\LoginServlet.class
+servlets\UsersRepository.class
+models\User.class
+servlets\UsersServlets.class
+servlets\RegistrationServlet.class
+servlets\UsersRepositoryJdbcImpl.class
