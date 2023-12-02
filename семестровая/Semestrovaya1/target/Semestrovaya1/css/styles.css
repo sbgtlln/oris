@@ -1,0 +1,19 @@
+html {
+
+    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fkartinki.pics%2F98424-beg-kartinka.html&psig=AOvVaw3xjGD-76mC6km5fryG4R8g&ust=1699697938282000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiRjrGauYIDFQAAAAAdAAAAABAE.jpg);
+
+    background-repeat: no-repeat;
+
+    background-position: center center;
+
+    background-attachment: fixed;
+
+    -webkit-background-size: cover;
+
+    -moz-background-size: cover;
+
+    -o-background-size: cover;
+
+    background-size: cover;
+
+}

@@ -1,0 +1,15 @@
+ru\itis\models\User.class
+ru\itis\servlet\MainServlet.class
+ru\itis\servlet\LoginServlet.class
+ru\itis\servlet\RegistrationServlet.class
+ru\itis\dao\UserRepositoryJdbcImpl.class
+ru\itis\util\DatabaseUtil.class
+ru\itis\models\User$UserBuilder.class
+ru\itis\dao\UserRepository.class
+ru\itis\models\Training$TrainingBuilder.class
+ru\itis\servlet\UserServlet.class
+ru\itis\dao\TrainingRepository.class
+ru\itis\dao\TrainingRepositoryJdbcImpl.class
+ru\itis\servlet\IndexServlet.class
+ru\itis\servlet\TrainingServlet.class
+ru\itis\models\Training.class
